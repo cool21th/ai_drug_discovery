@@ -1,4 +1,4 @@
-# ai_drug_discovery
+# drug_discovery(ChemGan)
 
 ## Demo: https://dash-drug-explorer.plot.ly/
 drug discovery & development process : https://ncats.nih.gov/translation/maps
