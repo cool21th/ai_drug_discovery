@@ -13,6 +13,4 @@ drug discovery & development process : https://ncats.nih.gov/translation/maps
 
 
 
-## DeepCCI: End-to-end Deep Learning for Chemical-Chemical Interaction Prediction
-
-[paper:](https://arxiv.org/pdf/1704.08432.pdf)
+## DeepCCI: End-to-end Deep Learning for Chemical-Chemical Interaction Prediction: [paper](https://arxiv.org/pdf/1704.08432.pdf)
